@@ -21,7 +21,7 @@ Ich habe Berufserfahrung als Elektriker, unter anderem in Betriebselektrik, Scha
 * JavaScript
 * MySQL
 * reakt
-  Grundlagen:
+* Grundlagen von folgende :
 * C
 * PHP
 * Linux
