@@ -1,5 +1,5 @@
 # DanielRostami
-### Elektriker · Automatisierungstechniker · Software Entwickler (in Ausbildung)
+### Elektriker · Automatisierungstechniker · Software Entwickler (in Weiterbildung)
 
 Ich habe Berufserfahrung als Elektriker, unter anderem in Betriebselektrik, Schaltschrankbau und Automatisierungstechnik. Aktuell erweitere ich meine technischen Kenntnisse durch eine Weiterbildung im Bereich Softwareentwicklung.
 
